@@ -1,4 +1,4 @@
-# Estimating Labor Market Transition Probabilities in Brazil Using PNADC
+# Estimating Labor Market Transition Probabilities in Brazil Using the PNADC
 
 This repository contains Stata code developed by Eric Torres (etorresram@gmail.com) to estimate annual labor market transition probabilities using data from the Brazilian National Household Sample Survey (PNADC). The code processes raw data, constructs panel datasets, applies advanced panel identification methods, harmonizes key labor variables across years to account for changes in the survey in the time, and finally computes weighted transition probabilities.
 
